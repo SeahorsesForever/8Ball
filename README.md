@@ -1,2 +1,2 @@
-# 8ball
-8ball page!
+# 8Ball
+8Ball page!
