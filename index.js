@@ -1,6 +1,7 @@
-let computerChoice = Math.floor(Math.random() * 3);
 
 function clickEvent() {
+    let computerChoice = Math.floor(Math.random() * 3);
+
     if (computerChoice = 0 ) {
         alert("You will perish soon.");
     } else if (computerChoice = 1) {
