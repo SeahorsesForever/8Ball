@@ -1,0 +1,39 @@
+
+body, html {
+    margin: 0;
+    padding: 0;
+
+}
+
+.container-one {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    
+}
+
+.container-two {
+    display: flex;
+    flex-direction: row;
+    justify-content:center;
+    margin: 20px;
+    gap: 10px;
+}
+
+.hero-image {
+    border: darkorchid solid 4px;
+    border-radius: 10px;
+}
+
+.header {
+    text-align: center;
+}
+
+#action {
+    align-items: center;
+    border: darkorchid solid 4px;
+    border-radius: 10px;
+}
+.button-text {
+    text-align: center;
+}
